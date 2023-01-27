@@ -1,10 +1,15 @@
-*{
-    font-family: sans-serif;
+table{
+    height: auto;
+    width: 100%;
 }
-#adicionar{
+th{
+    border: 1px solid #000;
+}
+#button-adicionar{
     background-color: #0078d1;
     color:#fff;
     padding: 8px;
     border-radius: 5px;
     border:none;
+    text-decoration: none;
 }

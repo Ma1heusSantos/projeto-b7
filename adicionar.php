@@ -1,5 +1,5 @@
-<h1> Adicionar Usuário</h1>
-<link rel="stylesheet" href="./style-index.css">
+<h1> Adicionar Usuário:</h1>
+<link rel="stylesheet" href="./style-add.css">
 <form method="POST" action = "adicionar_action.php">
     <label>
         Nome: <br>
