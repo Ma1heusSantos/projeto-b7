@@ -1,0 +1,10 @@
+*{
+    font-family: sans-serif;
+}
+#adicionar{
+    background-color: #0078d1;
+    color:#fff;
+    padding: 8px;
+    border-radius: 5px;
+    border:none;
+}

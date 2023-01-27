@@ -15,6 +15,7 @@ if($name && $email){
     exit;
 
 }else{
+    echo("deu certo n meu chegado");
     header("Location: adicionar.php");
     exit;
 }
